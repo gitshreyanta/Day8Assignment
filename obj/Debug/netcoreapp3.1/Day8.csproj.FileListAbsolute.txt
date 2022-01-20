@@ -1,0 +1,5 @@
+D:\demo\git\Day8\obj\Debug\netcoreapp3.1\Day8.csproj.AssemblyReference.cache
+D:\demo\git\Day8\obj\Debug\netcoreapp3.1\Day8.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\git\Day8\obj\Debug\netcoreapp3.1\Day8.AssemblyInfoInputs.cache
+D:\demo\git\Day8\obj\Debug\netcoreapp3.1\Day8.AssemblyInfo.cs
+D:\demo\git\Day8\obj\Debug\netcoreapp3.1\Day8.csproj.CoreCompileInputs.cache
